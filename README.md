@@ -9,6 +9,14 @@
 
 ###
 
+<div align="center">
+    <a href="https://wakatime.com/@carlosupreme" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=carlosupreme&layout=compact&theme=dracula" alt="WakaTime">
+    </a>
+</div>
+
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -60,6 +68,18 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=alpinejs" height="30" alt="alpinelinux logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <h3>📫 How to reach me:</h3>
+  <a href="https://www.linkedin.com/in/carlosupreme/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge" />
+  </a>
+</div>
+
 
 ###
 
