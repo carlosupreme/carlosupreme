@@ -17,6 +17,12 @@
 
 ###
 
+<div align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=carlosupreme&theme=dracula&exclude_days=Sun" alt="GitHub Streak" /></a>
+</div>
+
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
